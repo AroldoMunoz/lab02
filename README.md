@@ -123,6 +123,9 @@
 
 ## CUESTIONARIO
 - Pruebe este código de arrayGenerator() en la página https://jslint.com/
+
+- ![image.png](image.png)
+- 
 - Revisar esta discusión en stackoverflow - https://stackoverflow.com/questions/4852017/how-to-initialize-an-arrays-length-in-javascript
     - ¿Cómo se pueden resolver los warnings?
     - ¿Se puede modificar la solución usando map? ¿Cómo?
